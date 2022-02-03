@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://sensolabs.cl/assets/img/sensolabs.png
   name: Status
   themeUrl: https://sensolabs-website.s3.amazonaws.com/status-theme.css
-  introTitle: "**Sensolabs** es un laboratorio urbano de investigación, desarrollo, y aplicación de tecnologías con un enfoque en crear un impacto social y medio ambiental." 
+  introTitle: "**Sensolabs** es un laboratorio urbano de investigación, desarrollo, y aplicación de tecnologías con un enfoque en crear impacto social y medio ambiental." 
   introMessage: Esta es una página de monitoreo de estado, la cual usa datos en **tiempo real** desde nuestros servidores.
   navbar:
     - title: GitHub
