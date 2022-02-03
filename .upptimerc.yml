@@ -21,8 +21,8 @@ status-website:
   logoUrl: https://sensolabs.cl/assets/img/sensolabs.png
   name: Status
   themeUrl: https://sensolabs-website.s3.amazonaws.com/status-theme.css
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Sensolabs** es un "laboratorio urbano" de investigación, desarrollo, y aplicación de tecnologías con un enfoque en crear un impacto social y medio ambiental." 
+  introMessage: Esta es una pagina de monitoreo de estado, la cual usa datos en **tiempo real** desde nuestros servidores.
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
