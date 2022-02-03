@@ -17,7 +17,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.sensolabs.cl
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://sensolabs.cl/favicon.png
+  logoUrl: https://sensolabs.cl/assets/img/sensolabs.png
   name: Sensolabs
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -26,6 +27,50 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+  i18n:
+    activeIncidents: Incidentes activos
+    allSystemsOperational: Todos los sistemas están operativos
+    incidentReport: "Incidente #$NUMBER  →"
+    activeIncidentSummary: Hilo creado el $DATE con $POSTS posts
+    incidentTitle: Detalle de incidente $NUMBER
+    incidentDetails: Detalles de incidente
+    incidentFixed: Corregido
+    incidentOngoing: En progreso
+    incidentOpenedAt: Creado el
+    incidentClosedAt: Cerrado el
+    incidentSubscribe: Suscribirse a este incidente
+    incidentViewOnGitHub: Ver en GitHub
+    incidentCommentSummary: Posteado el $DATE por $AUTHOR
+    incidentBack: ← Volver a todos los incidentes
+    pastIncidents: Incidentes pasados
+    pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
+    liveStatus: Estado en vivo
+    overallUptime: "Uptime promedio: $UPTIME"
+    overallUptimeTitle: Uptime promedio
+    averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+    averageResponseTimeTitle: Respuesta promedio
+    sevelDayResponseTime: 7-day response time
+    responseTimeMs: Tiempo de respuesta (ms)
+    up: En linea
+    down: Desconectado
+    degraded: Posibles problemas
+    ms: ms
+    loading: Cargando
+    navGitHub: GitHub
+    footer: © Copyright 2022. SensoLabs SpA.
+    errorTitle: Ocurrió un error
+    errorIntro: Ocurrió un error intentando obtener el detalle de estado mas reciente.
+    errorText: Puedes intentarlo denuevo en unos minutos.
+    errorHome: Volver al inicio
+    pastScheduledMaintenance: Últimos mantenimientos programados
+    scheduledMaintenance: Mantenimiento programado
+    scheduledMaintenanceSummaryStarted: Iniciado el $DATE con una duración de $DURATION minutos
+    scheduledMaintenanceSummaryStarts: Comenzará el $DATE con una duración de $DURATION minutos
+    startedAt: Iniciado el
+    startsAt: Comezará el
+    duration: Duración
+    durationMin: $DURATION minutos
+    incidentCompleted: Completado
+    incidentScheduled: En cola
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
