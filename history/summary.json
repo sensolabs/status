@@ -40,19 +40,19 @@
     "url": "https://sensol.ink",
     "icon": "https://favicons.githubusercontent.com/sensol.ink",
     "slug": "sensolink",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 149,
-    "timeWeek": 315,
-    "timeMonth": 314,
-    "timeYear": 314,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 309,
+    "timeDay": 143,
+    "timeWeek": 292,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2022-02-25": 1
+      "2022-02-25": 21
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://api.sensol.ink",
     "icon": "https://favicons.githubusercontent.com/api.sensol.ink",
     "slug": "sensolink-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 65,
-    "timeWeek": 199,
-    "timeMonth": 162,
-    "timeYear": 162,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 160,
+    "timeDay": 68,
+    "timeWeek": 183,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2022-02-25": 0
+      "2022-02-25": 20
     }
   }
 ]
