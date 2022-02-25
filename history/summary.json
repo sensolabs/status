@@ -40,10 +40,10 @@
     "url": "https://sensol.ink",
     "icon": "https://favicons.githubusercontent.com/sensol.ink",
     "slug": "sensolink",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
@@ -51,14 +51,16 @@
     "timeWeek": 315,
     "timeMonth": 314,
     "timeYear": 314,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 1
+    }
   },
   {
     "name": "Sensolink API",
     "url": "https://api.sensol.ink",
     "icon": "https://favicons.githubusercontent.com/api.sensol.ink",
     "slug": "sensolink-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +71,8 @@
     "timeWeek": 199,
     "timeMonth": 162,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   }
 ]
