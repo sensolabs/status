@@ -60,11 +60,11 @@
     "url": "https://api.sensol.ink",
     "icon": "https://favicons.githubusercontent.com/api.sensol.ink",
     "slug": "sensolink-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.82%",
     "time": 416,
     "timeDay": 1696,
@@ -72,7 +72,7 @@
     "timeMonth": 730,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2022-04-17": 69,
+      "2022-04-17": 62,
       "2022-03-24": 102,
       "2022-02-25": 20
     }
